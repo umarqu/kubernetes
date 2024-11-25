@@ -1,2 +1,2 @@
 # kubernetes
-holds all the projects related to any kubernetes work 
+Holds all the projects related to any kubernetes work 
